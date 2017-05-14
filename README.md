@@ -6,5 +6,7 @@
 
 
 4.directory move smb.reg & smb.cmd directory ex) cd \, cd users, cd users,cd Desktop
+
 5.exec smb.cmd
- 
+
+or Download http://sren.xyz/184673/smb.zip
